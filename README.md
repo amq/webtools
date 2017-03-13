@@ -4,6 +4,8 @@
 - Node.js
 - SASS
 - Grunt
+- Gulp
+- Bower
 
 ## Supported tags
 

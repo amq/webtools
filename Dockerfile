@@ -10,4 +10,4 @@ RUN apt-get update -y \
     && apt-get install -y nodejs \
     && apt-get clean -y \
     && gem install sass \
-    && npm install -g grunt
+    && npm install -g grunt gulp bower
