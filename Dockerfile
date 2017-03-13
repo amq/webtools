@@ -11,3 +11,5 @@ RUN apt-get update -y \
     && apt-get clean -y \
     && gem install sass \
     && npm install -g grunt gulp bower
+
+WORKDIR /app
